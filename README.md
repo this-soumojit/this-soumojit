@@ -25,80 +25,34 @@ All the projects listed below have been handled end-to-end by me — from design
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-### E-commerce & CMS
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat&logo=shopify&logoColor=white)
-
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## 💼 Featured Projects (October 2025 - Present)
-
-Real-world client projects that I have designed, developed, and deployed end-to-end.
-
-### 🏢 Enterprise & Agency Solutions
-
 <table>
 <tr>
 <td width="50%">
 
-#### Yellow Arrow Solutions
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+#### ARCTIQ Foods & Beverages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-Digital agency platform with comprehensive service offerings and client management.
-
-Client project designed, developed, and deployed end-to-end.
+Corporate website for food and beverage company with product catalogs and ordering system.
 
 🔒 **Private Repository**
-[Live Demo](https://yellowarrow.co.in/) | ![Project Banner](./Yellowarrow.gif)
+[Live Demo](https://arctiqfoods.com/) | ![Project Banner](./Articq.gif)
 
 **Account:** `soumojitg-spec`
 
 </td>
 <td width="50%">
 
-#### Elevatedigi Revamp
+#### Loan EMI Calculator
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-Complete redesign of digital marketing agency platform with modern UI/UX.
+**Created:** December 2025
+
+Financial calculator for loan EMI calculations with amortization schedules.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./Elevatedigi.gif)
+[Live Demo](#) | ![Project Banner](./images/loan-emi-calculator.png)
 
 **Account:** `soumojitg-spec`
 
@@ -108,26 +62,72 @@ Complete redesign of digital marketing agency platform with modern UI/UX.
 <tr>
 <td width="50%">
 
-#### theelevatedigi.live
+#### Agency CRM
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-Production website for digital marketing agency.
+Comprehensive CRM solution for digital agencies with client management, project tracking, and billing.
 
 🔒 **Private Repository**
-[Live Demo](https://www.theelevatedigi.live/) | ![Project Banner](./Elevatelive.gif)
+[Live Demo](#) | ![Project Banner](./images/agency-crm.png)
 
 **Account:** `soumojitg-spec`
 
 </td>
 <td width="50%">
 
-#### Shaka Design Lab
+#### CRM Prototype (Full Stack)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-Design agency portfolio and project management platform.
+Full-stack CRM prototype with separate frontend and backend architecture.
 
+🔒 **Private Repository** (Frontend & Backend)
+[Live Demo](#) | ![Project Banner](./Crm.gif)
+
+**Repos:** `crm-prototype-frontend` + `crm-prototype-backend`
+**Account:** `soumojitg-spec`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### Custom Theme (Liquid)
+![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat&logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+
+**Created:** January 2026
+
+Custom Shopify theme built with Liquid templating for e-commerce stores.
+
+🔒 **Private Repository**
+[Live Demo](#) | ![Project Banner](./images/custom-theme-liquid.png)
+
+**Account:** `this-soumojit`
+
+</td>
+<td width="50%">
+
+#### Akara Custom Theme
+![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat&logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+
+**Created:** November 2025
+
+Bespoke Shopify theme for Akara brand with custom functionality.
+
+🔒 **Private Repository**
+[Live Demo](#) | ![Project Banner](./images/akara-custom-theme.png)
+
+**Account:** `this-soumojit`
+
+</td>
+</tr>
+</table>
 🔒 **Private Repository**
 [Live Demo](https://shakadesignlab.pages.dev/) | ![Project Banner](./ShakaDesignLab.gif)
 
@@ -226,7 +226,7 @@ Developer tools and utilities suite for productivity enhancement.
 Comprehensive CRM solution for digital agencies with client management, project tracking, and billing.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./Crm.gif)
+[Live Demo](#) | ![Project Banner](./images/agency-crm.png)
 
 **Account:** `soumojitg-spec`
 
@@ -248,41 +248,36 @@ Full-stack CRM prototype with separate frontend and backend architecture.
 
 </td>
 </tr>
-
-<tr>
 <td width="50%">
+#### LeadFlow Automation
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-#### Custom Theme (Liquid)
-![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat&logo=shopify&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-
-**Created:** January 2026
-
-Custom Shopify theme built with Liquid templating for e-commerce stores.
+Automated lead management and workflow automation system for sales teams.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/custom-theme-liquid.png)
+[Live Demo](https://leadflow.growthex.cloud/) | ![Project Banner](./Leadflow.gif)
 
-**Account:** `this-soumojit`
+**Account:** `soumojitg-spec`
 
 </td>
 <td width="50%">
+#### DevTools
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-#### Akara Custom Theme
-![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat&logo=shopify&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+**Recently Updated**
 
-**Created:** November 2025
-
-Bespoke Shopify theme for Akara brand with custom functionality.
+Developer tools and utilities suite for productivity enhancement.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/akara-custom-theme.png)
+[Live Demo](https://devtools.codehez.com/) | ![Project Banner](./Devtools.gif)
 
 **Account:** `this-soumojit`
 
 </td>
 </tr>
+
+<tr>
 
 <tr>
 <td width="50%">
