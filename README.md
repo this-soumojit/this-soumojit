@@ -87,14 +87,66 @@ Client project designed, developed, and deployed end-to-end.
 
 **Screenshots**
 
+<a id="yellowarrow-1"></a>
 <p align="center">
 	<img src="./images/yellowarrow1.png" width="260" />
+</p>
+<p align="center">
+	➡️ [Next 
+›](#yellowarrow-2)
+</p>
+
+<a id="yellowarrow-2"></a>
+<p align="center">
 	<img src="./images/yellowarrow2.png" width="260" />
+</p>
+<p align="center">
+	[‹ Previous](#yellowarrow-1) | ➡️ [Next 
+›](#yellowarrow-3)
+</p>
+
+<a id="yellowarrow-3"></a>
+<p align="center">
 	<img src="./images/yellowarrow3.png" width="260" />
+</p>
+<p align="center">
+	[‹ Previous](#yellowarrow-2) | ➡️ [Next 
+›](#yellowarrow-4)
+</p>
+
+<a id="yellowarrow-4"></a>
+<p align="center">
 	<img src="./images/yellowarrow4.png" width="260" />
+</p>
+<p align="center">
+	[‹ Previous](#yellowarrow-3) | ➡️ [Next 
+›](#yellowarrow-5)
+</p>
+
+<a id="yellowarrow-5"></a>
+<p align="center">
 	<img src="./images/yellowarrow5.png" width="260" />
+</p>
+<p align="center">
+	[‹ Previous](#yellowarrow-4) | ➡️ [Next 
+›](#yellowarrow-6)
+</p>
+
+<a id="yellowarrow-6"></a>
+<p align="center">
 	<img src="./images/yellowarrow6.png" width="260" />
+</p>
+<p align="center">
+	[‹ Previous](#yellowarrow-5) | ➡️ [Next 
+›](#yellowarrow-7)
+</p>
+
+<a id="yellowarrow-7"></a>
+<p align="center">
 	<img src="./images/yellowarrow7.png" width="260" />
+</p>
+<p align="center">
+	[‹ Previous](#yellowarrow-6)
 </p>
 
 **Account:** `soumojitg-spec`
