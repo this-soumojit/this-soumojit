@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Soumojit%20Ghosh&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Architect%20of%20Digital%20Excellence&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Soumojit%20Ghosh&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Delivering%20Enterprise%20Solutions&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+scalable+web+%26+mobile+solutions;AI-Powered+%7C+Cloud-Native+%7C+Performance-Driven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=600&height=100&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+scalable+web+%26+mobile+solutions;Trusted+by+clients+worldwide" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/this-soumojit/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
+  <a href="mailto:soumojitghosh325@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -47,22 +47,24 @@
 ```typescript
 const soumojit = {
     role: "Full Stack Developer",
+    experience: "Delivering production-ready solutions for clients globally",
     specialization: [
         "🎯 Scalable Web & Mobile Applications",
         "🤖 AI-Powered Automation Solutions",
         "💼 Enterprise CRM & E-commerce Platforms",
         "☁️ Cloud-Native Architectures"
     ],
-    approach: "End-to-End Development",
-    commitment: "Design → Development → Deployment",
+    workStyle: "End-to-End Development & Deployment",
+    clientSuccess: "Design → Development → Deployment → Support",
     techStack: {
-        frontend: ["React", "Next.js", "TypeScript", "React Native"],
+        frontend: ["React", "Next.js", "TypeScript", "React Native", "Vite"],
         backend: ["Node.js", "Express", "Nest.js"],
         database: ["MongoDB", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "Vercel", "Digital Ocean"],
-        tools: ["Git", "Docker", "CI/CD", "REST APIs"]
+        cloud: ["AWS", "VPS", "Vercel", "Digital Ocean"],
+        tools: ["Git", "Docker", "CI/CD", "REST APIs"],
+        services: ["Resend", "Stripe", "Auth0"]
     },
-    currentFocus: "Building AI-driven solutions for enterprise automation"
+    currentFocus: "Building AI-driven automation for enterprise clients"
 };
 ```
 
@@ -76,13 +78,13 @@ const soumojit = {
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Featured Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Client Projects Portfolio
 
 </div>
 
 <div align="center">
 
-*Live projects deployed and running in production*
+*Production applications delivered for clients • Live & actively maintained*
 
 </div>
 
@@ -96,22 +98,23 @@ const soumojit = {
 
 <div align="center">
 
-### 💼 LeadFlow Automation
+### 💼 LeadFlow Automation (Client Work)
 
 <img src="./Leadflow.gif" alt="LeadFlow Automation" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 </div>
 
-Automated lead management and workflow automation system for sales teams with intelligent routing and analytics.
+Enterprise lead management and workflow automation platform for sales teams. Features intelligent routing, analytics dashboard, and real-time notifications.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4c51bf?style=for-the-badge)](https://leadflow.growthex.cloud/)
+[![Live Demo](https://img.shields.io/badge/🌐_Client_Project-4c51bf?style=for-the-badge)](https://leadflow.growthex.cloud/)
 ![Private](https://img.shields.io/badge/🔒_Private-2d3748?style=for-the-badge)
 
 `soumojitg-spec`
@@ -123,22 +126,23 @@ Automated lead management and workflow automation system for sales teams with in
 
 <div align="center">
 
-### 🛠️ DevTools
+### 🛠️ DevTools Suite (Client Work)
 
 <img src="./Devtools.gif" alt="DevTools" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Recently_Updated-10B981?style=for-the-badge"/>
 </p>
 
 </div>
 
-Developer tools and utilities suite for productivity enhancement with modern UI and seamless integrations.
+Comprehensive developer tools and utilities platform designed for productivity enhancement. Features modern UI, seamless integrations, and collaborative workflows.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-805ad5?style=for-the-badge)](https://devtools.codehez.com/)
+[![Live Demo](https://img.shields.io/badge/🌐_Client_Project-805ad5?style=for-the-badge)](https://devtools.codehez.com/)
 ![Private](https://img.shields.io/badge/🔒_Private-2d3748?style=for-the-badge)
 
 `this-soumojit`
@@ -159,22 +163,23 @@ Developer tools and utilities suite for productivity enhancement with modern UI 
 
 <div align="center">
 
-### 🏪 ARCTIQ Foods & Beverages
+### 🏪 ARCTIQ Foods & Beverages (Client Work)
 
 <img src="./Articq.gif" alt="ARCTIQ Foods" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 </div>
 
-Corporate website for food and beverage company with product catalogs, ordering system, and inventory management.
+Corporate e-commerce platform for food & beverage company. Features product catalogs, online ordering system, inventory management, and customer portal.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-F59E0B?style=for-the-badge)](https://arctiqfoods.com/)
+[![Live Demo](https://img.shields.io/badge/🌐_Client_Project-F59E0B?style=for-the-badge)](https://arctiqfoods.com/)
 ![Private](https://img.shields.io/badge/🔒_Private-2d3748?style=for-the-badge)
 
 `soumojitg-spec`
@@ -186,23 +191,26 @@ Corporate website for food and beverage company with product catalogs, ordering 
 
 <div align="center">
 
-### 📊 CRM Prototype
+### 📊 CRM Platform (Client Work)
 
 <img src="./Crm.gif" alt="CRM Prototype" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPS-FF6C37?style=for-the-badge&logo=digitalocean&logoColor=white"/>
 </p>
 
 </div>
 
-Full-stack CRM prototype with separate frontend and backend architecture for complete client management.
+Full-stack CRM solution with complete client & project management. Built with separate frontend (React + Vite) and backend (Node.js + Express) architecture. Features include MongoDB database, Resend email integration, and self-hosted VPS deployment.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-EF4444?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Client_Project-EF4444?style=for-the-badge)](#)
 ![Private](https://img.shields.io/badge/🔒_Private-2d3748?style=for-the-badge)
 
 `soumojitg-spec` • Frontend & Backend
@@ -223,7 +231,7 @@ Full-stack CRM prototype with separate frontend and backend architecture for com
 
 <div align="center">
 
-### 🚀 GrowthEx Root
+### 🚀 GrowthEx Platform (Client Work)
 
 <img src="./Growthex.gif" alt="GrowthEx Root" width="100%"/>
 
@@ -231,15 +239,16 @@ Full-stack CRM prototype with separate frontend and backend architecture for com
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 </div>
 
-Main platform for GrowthEx digital solutions with modern architecture and cutting-edge performance.
+Main digital solutions platform for GrowthEx agency. Modern architecture with cutting-edge performance, featuring service showcases, client dashboards, and integrated analytics.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-8B5CF6?style=for-the-badge)](https://growthex.cloud/)
+[![Live Demo](https://img.shields.io/badge/🌐_Client_Project-8B5CF6?style=for-the-badge)](https://growthex.cloud/)
 ![Private](https://img.shields.io/badge/🔒_Private-2d3748?style=for-the-badge)
 
 `soumojitg-spec`
@@ -251,23 +260,23 @@ Main platform for GrowthEx digital solutions with modern architecture and cuttin
 
 <div align="center">
 
-### ⚡ ElevateDigi
+### ⚡ ElevateDigi Agency (Client Work)
 
 <img src="./Elevatedigi.gif" alt="ElevateDigi" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/December_2025-EC4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delivered_Dec_2025-EC4899?style=for-the-badge"/>
 </p>
 
 </div>
 
-Digital marketing agency website with service showcases, client portals, and project management tools.
+Full-scale digital marketing agency platform. Includes service showcases, client portals, project management tools, and lead tracking system.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-14B8A6?style=for-the-badge)](https://www.theelevatedigi.com/)
+[![Live Demo](https://img.shields.io/badge/🌐_Client_Project-14B8A6?style=for-the-badge)](https://www.theelevatedigi.com/)
 ![Private](https://img.shields.io/badge/🔒_Private-2d3748?style=for-the-badge)
 
 `this-soumojit`
@@ -282,23 +291,23 @@ Digital marketing agency website with service showcases, client portals, and pro
 
 <div align="center">
 
-### 🎯 Yellow Arrow
+### 🎯 Yellow Arrow Creative (Client Work)
 
 <img src="./Yellowarrow.gif" alt="Yellow Arrow" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/December_2025-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delivered_Dec_2025-F59E0B?style=for-the-badge"/>
 </p>
 
 </div>
 
-Creative agency platform with portfolio showcase, client management, and project collaboration tools.
+Creative agency platform featuring portfolio showcase, client management system, and project collaboration tools with real-time updates.
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-F97316?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🌐_Client_Project-F97316?style=for-the-badge)](#)
 ![Private](https://img.shields.io/badge/🔒_Private-2d3748?style=for-the-badge)
 
 `this-soumojit`
@@ -315,7 +324,7 @@ Creative agency platform with portfolio showcase, client management, and project
 <br/>
 
 <details>
-<summary><h3 style="display: inline-block">📦 More Projects & Solutions</h3></summary>
+<summary><h3 style="display: inline-block">📦 Additional Client Projects</h3></summary>
 
 <br/>
 
@@ -509,7 +518,7 @@ Modern portfolio template with animations and dark mode support.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=this-soumojit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=this-soumojit&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
@@ -524,10 +533,10 @@ Modern portfolio template with animations and dark mode support.
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/this-soumojit/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35"/>
   </a>
-  <a href="#">
+  <a href="mailto:soumojitghosh325@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D93025" height="35"/>
   </a>
   <a href="https://github.com/this-soumojit">
@@ -537,22 +546,22 @@ Modern portfolio template with animations and dark mode support.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=💼+Open+to+freelance+projects+and+collaborations;🚀+Let's+build+something+amazing+together!;📧+Feel+free+to+reach+out!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=600&lines=💼+Delivering+enterprise+solutions+for+clients+worldwide;🚀+Let's+build+something+amazing+together!;📧+Open+for+new+projects+and+collaborations" alt="Typing SVG" />
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=this-soumojit&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=this-soumojit&color=764ba2&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 </p>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-### 💜 Built with passion • Powered by code • Deployed with excellence
+### 💜 Delivering excellence • One project at a time • Trusted by clients worldwide
 
 </div>
