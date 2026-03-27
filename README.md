@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Soumojit%20Ghosh&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Delivering%20Enterprise%20Solutions&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=200&section=header&text=Soumojit%20Ghosh&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Delivering%20Enterprise%20Solutions&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=600&height=100&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+scalable+web+%26+mobile+solutions;Trusted+by+clients+worldwide" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+scalable+web+%26+mobile+solutions;Trusted+by+clients+worldwide" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -46,7 +46,7 @@
 
 ```typescript
 const soumojit = {
-    role: "Full Stack Developer",
+    role: "Full Stack Web Developer",
     experience: "Delivering production-ready solutions for clients globally",
     specialization: [
         "🎯 Scalable Web & Mobile Applications",
@@ -546,22 +546,22 @@ Modern portfolio template with animations and dark mode support.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=764ba2&center=true&vCenter=true&width=600&lines=💼+Delivering+enterprise+solutions+for+clients+worldwide;🚀+Let's+build+something+amazing+together!;📧+Open+for+new+projects+and+collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=💼+Delivering+enterprise+solutions+for+clients+worldwide;🚀+Let's+build+something+amazing+together!;📧+Open+for+new+projects+and+collaborations" alt="Typing SVG" />
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=this-soumojit&color=764ba2&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=this-soumojit&color=3b82f6&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 </p>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-### 💜 Delivering excellence • One project at a time • Trusted by clients worldwide
+### 🚀 Delivering excellence • One project at a time • Trusted by clients worldwide
 
 </div>
