@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Soumojit Ghosh
 
-### Full Stack Developer | React • Next.js • Node.js • React Native • Flutter
+### Full Stack Web Developer | React • Next.js • Node.js • React Native
 
 [![GitHub this-soumojit](https://img.shields.io/badge/GitHub-this--soumojit-181717?style=for-the-badge&logo=github)](https://github.com/this-soumojit)
 [![GitHub soumojitg-spec](https://img.shields.io/badge/GitHub-soumojitg--spec-181717?style=for-the-badge&logo=github)](https://github.com/soumojitg-spec)
@@ -145,6 +145,38 @@ Bespoke Shopify theme for Akara brand with custom functionality.
 <tr>
 <td width="50%">
 
+#### LeadFlow Automation
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+Automated lead management and workflow automation system for sales teams.
+
+🔒 **Private Repository**
+[Live Demo](https://leadflow.growthex.cloud/) | ![Project Banner](./Leadflow.gif)
+
+**Account:** `soumojitg-spec`
+
+</td>
+<td width="50%">
+
+#### DevTools
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+**Recently Updated**
+
+Developer tools and utilities suite for productivity enhancement.
+
+🔒 **Private Repository**
+[Live Demo](https://devtools.codehez.com/) | ![Project Banner](./Devtools.gif)
+
+**Account:** `this-soumojit`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 #### AI Hiring Automation
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -171,38 +203,6 @@ Advanced AI recruitment system with automated screening and candidate management
 
 🔒 **Private Repository**
 [Live Demo](#) | ![Project Banner](./images/hirepilot.png)
-
-**Account:** `this-soumojit`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### LeadFlow Automation
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-Automated lead management and workflow automation system for sales teams.
-
-🔒 **Private Repository**
-[Live Demo](https://leadflow.growthex.cloud/) | ![Project Banner](./Leadflow.gif)
-
-**Account:** `soumojitg-spec`
-
-</td>
-<td width="50%">
-
-#### DevTools
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-**Recently Updated**
-
-Developer tools and utilities suite for productivity enhancement.
-
-🔒 **Private Repository**
-[Live Demo](https://devtools.codehez.com/) | ![Project Banner](./Devtools.gif)
 
 **Account:** `this-soumojit`
 
