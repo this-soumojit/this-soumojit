@@ -21,6 +21,8 @@
 
 Full Stack Developer specializing in building scalable web and mobile applications. Experienced in developing modern web platforms, CRM systems, e-commerce solutions, and AI-powered automation tools. Passionate about creating clean, efficient, and user-friendly applications using cutting-edge technologies.
 
+All the projects listed below have been handled end-to-end by me — from design and development to deployment.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -62,6 +64,8 @@ Full Stack Developer specializing in building scalable web and mobile applicatio
 ---
 
 ## 💼 Featured Projects (October 2025 - Present)
+
+Real-world client projects that I have designed, developed, and deployed end-to-end.
 
 ### 🏢 Enterprise & Agency Solutions
 
