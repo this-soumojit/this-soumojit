@@ -80,8 +80,10 @@ Real-world client projects that I have designed, developed, and deployed end-to-
 
 Digital agency platform with comprehensive service offerings and client management.
 
+Client project designed, developed, and deployed end-to-end.
+
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/yellow-arrow-solutions.png)
+[Live Demo](https://yellowarrow.co.in/) | ![Project Banner](./images/yellowarrow1.png)
 
 **Account:** `soumojitg-spec`
 
