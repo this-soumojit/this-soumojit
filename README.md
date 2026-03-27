@@ -83,71 +83,7 @@ Digital agency platform with comprehensive service offerings and client manageme
 Client project designed, developed, and deployed end-to-end.
 
 🔒 **Private Repository**
-[Live Demo](https://yellowarrow.co.in/) | ![Project Banner](./images/yellowarrow1.png)
-
-**Screenshots**
-
-<a id="yellowarrow-1"></a>
-<p align="center">
-	<img src="./images/yellowarrow1.png" width="260" />
-</p>
-<p align="center">
-	➡️ [Next 
-›](#yellowarrow-2)
-</p>
-
-<a id="yellowarrow-2"></a>
-<p align="center">
-	<img src="./images/yellowarrow2.png" width="260" />
-</p>
-<p align="center">
-	[‹ Previous](#yellowarrow-1) | ➡️ [Next 
-›](#yellowarrow-3)
-</p>
-
-<a id="yellowarrow-3"></a>
-<p align="center">
-	<img src="./images/yellowarrow3.png" width="260" />
-</p>
-<p align="center">
-	[‹ Previous](#yellowarrow-2) | ➡️ [Next 
-›](#yellowarrow-4)
-</p>
-
-<a id="yellowarrow-4"></a>
-<p align="center">
-	<img src="./images/yellowarrow4.png" width="260" />
-</p>
-<p align="center">
-	[‹ Previous](#yellowarrow-3) | ➡️ [Next 
-›](#yellowarrow-5)
-</p>
-
-<a id="yellowarrow-5"></a>
-<p align="center">
-	<img src="./images/yellowarrow5.png" width="260" />
-</p>
-<p align="center">
-	[‹ Previous](#yellowarrow-4) | ➡️ [Next 
-›](#yellowarrow-6)
-</p>
-
-<a id="yellowarrow-6"></a>
-<p align="center">
-	<img src="./images/yellowarrow6.png" width="260" />
-</p>
-<p align="center">
-	[‹ Previous](#yellowarrow-5) | ➡️ [Next 
-›](#yellowarrow-7)
-</p>
-
-<a id="yellowarrow-7"></a>
-<p align="center">
-	<img src="./images/yellowarrow7.png" width="260" />
-</p>
-<p align="center">
-	[‹ Previous](#yellowarrow-6)
-</p>
+[Live Demo](https://yellowarrow.co.in/) | ![Project Banner](./Yellowarrow.gif)
 
 **Account:** `soumojitg-spec`
 
@@ -162,7 +98,7 @@ Client project designed, developed, and deployed end-to-end.
 Complete redesign of digital marketing agency platform with modern UI/UX.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/elevatedigi-revamp.png)
+[Live Demo](#) | ![Project Banner](./Elevatedigi.gif)
 
 **Account:** `soumojitg-spec`
 
@@ -179,7 +115,7 @@ Complete redesign of digital marketing agency platform with modern UI/UX.
 Production website for digital marketing agency.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/theelevatedigi-live.png)
+[Live Demo](https://www.theelevatedigi.live/) | ![Project Banner](./Elevatelive.gif)
 
 **Account:** `soumojitg-spec`
 
@@ -193,7 +129,7 @@ Production website for digital marketing agency.
 Design agency portfolio and project management platform.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/shakadesignlab.png)
+[Live Demo](https://shakadesignlab.pages.dev/) | ![Project Banner](./ShakaDesignLab.gif)
 
 **Account:** `soumojitg-spec`
 
@@ -251,7 +187,7 @@ Advanced AI recruitment system with automated screening and candidate management
 Automated lead management and workflow automation system for sales teams.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/leadflow-automation.png)
+[Live Demo](https://leadflow.growthex.cloud/) | ![Project Banner](./Leadflow.gif)
 
 **Account:** `soumojitg-spec`
 
@@ -266,7 +202,7 @@ Automated lead management and workflow automation system for sales teams.
 Developer tools and utilities suite for productivity enhancement.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/devtools.png)
+[Live Demo](https://devtools.codehez.com/) | ![Project Banner](./Devtools.gif)
 
 **Account:** `this-soumojit`
 
@@ -290,7 +226,7 @@ Developer tools and utilities suite for productivity enhancement.
 Comprehensive CRM solution for digital agencies with client management, project tracking, and billing.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/agency-crm.png)
+[Live Demo](#) | ![Project Banner](./Crm.gif)
 
 **Account:** `soumojitg-spec`
 
@@ -305,7 +241,7 @@ Comprehensive CRM solution for digital agencies with client management, project 
 Full-stack CRM prototype with separate frontend and backend architecture.
 
 🔒 **Private Repository** (Frontend & Backend)
-[Live Demo](#) | ![Project Banner](./images/crm-prototype.png)
+[Live Demo](#) | ![Project Banner](./Crm.gif)
 
 **Repos:** `crm-prototype-frontend` + `crm-prototype-backend`
 **Account:** `soumojitg-spec`
@@ -358,7 +294,7 @@ Bespoke Shopify theme for Akara brand with custom functionality.
 Corporate website for food and beverage company with product catalogs and ordering system.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/arctiq-foods.png)
+[Live Demo](https://arctiqfoods.com/) | ![Project Banner](./Articq.gif)
 
 **Account:** `soumojitg-spec`
 
@@ -398,7 +334,7 @@ Financial calculator for loan EMI calculations with amortization schedules.
 Main platform for GrowthEx digital solutions with modern architecture.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/growthex-root.png)
+[Live Demo](https://growthex.cloud/) | ![Project Banner](./Growthex.gif)
 
 **Account:** `soumojitg-spec`
 
@@ -431,7 +367,7 @@ Cloud-based services and solutions platform for GrowthEx.
 Digital marketing agency website with service showcases and client portals.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/elevatedigi.png)
+[Live Demo](https://www.theelevatedigi.com/) | ![Project Banner](./Elevatedigi.gif)
 
 **Account:** `this-soumojit`
 
@@ -447,7 +383,7 @@ Digital marketing agency website with service showcases and client portals.
 Creative agency platform with portfolio showcase and client management.
 
 🔒 **Private Repository**
-[Live Demo](#) | ![Project Banner](./images/yellowarrow.png)
+[Live Demo](#) | ![Project Banner](./Yellowarrow.gif)
 
 **Account:** `this-soumojit`
 
